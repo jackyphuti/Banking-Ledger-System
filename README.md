@@ -177,4 +177,4 @@ This is an educational project demonstrating banking principles. For production 
 ---
 **Created**: January 2026  
 **Language**: C++17  
-**Target Audience**: BBD, SA Banking Sector
+**Target Audience**: SA Banking Sector
